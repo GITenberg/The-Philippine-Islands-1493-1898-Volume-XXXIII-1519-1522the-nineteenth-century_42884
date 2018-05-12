@@ -28,6 +28,8 @@ creator:
     gutenberg_agent_id: '2296'
     url: http://www.gutenberg.org/2009/agents/2296
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42884#The-Philippine-Islands-1493-1898-Volume-XXXIII-1519-1522the-nineteenth-century
 gutenberg_issued: '2013-06-05'
 gutenberg_type: Text
 identifiers:
